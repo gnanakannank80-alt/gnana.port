@@ -263,6 +263,12 @@
      transform: translateY(-4px);
      background: #0f2a46;
  }
+.btn{
+    border-radius: 10px;
+    border-width: 12px;
+    color: #eff3f4;
+    background-color: #00E5FF;
+}
 
 /*       ***************  PROJECTS  ****************       */
 
@@ -568,5 +574,6 @@
      .projects-grid {
          grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
      }
+
 
  }
