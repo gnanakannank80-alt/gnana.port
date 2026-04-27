@@ -1,117 +1,114 @@
 # gnana.portfolio
-👨‍💻 GNANAKANNAN K
+GNANAKANNAN K
 
 📍 213, Perumal Kovil Street, Sirupooluvapatti, Tiruppur
-📞 6385222106 | 📧 gnanakannan@gmail.com
+📞 6385222106
+📧 gnanakannan@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/gnanakannan-k-9ab173355
+
+💻 GitHub: https://github.com/gnanakannank80-alt
 
 🎯 CAREER OBJECTIVE
 
-🚀 Passionate and performance-driven Computer Science Engineering student with strong foundations in programming and modern web technologies.
+Passionate and performance-driven Computer Science Engineering student with strong foundations in programming and modern web technologies.
 
-💡 Skilled in Python, Java, SQL, and Web Development with a deep interest in building scalable, responsive, and user-centric applications.
+Skilled in Python, Java, SQL, and Web Development with a strong interest in building scalable, responsive, and user-centric applications.
 
-🎯 Seeking an opportunity in a reputed MNC to contribute innovative solutions, enhance technical expertise, and grow into a highly efficient Software Engineer.
+Seeking an opportunity in a reputed organization to contribute innovative solutions, enhance technical expertise, and grow into a highly efficient Software Engineer.
 
 🎓 EDUCATION
 
 🎓 B.E – Computer Science Engineering (2024–2028)
 🏫 M.P. Nachimuthu M. Jaganathan Engineering College
+📊 CGPA: 8.6
 
-📘 Higher Secondary Education (2023–2024)
+📘 Higher Secondary Education (12th Standard) (2023–2024)
 🏫 M.P.L Higher Secondary School
+📊 Percentage: 82%
 
-📗 Secondary School Leaving Certificate (2021–2022)
+📗 Secondary School Leaving Certificate (10th Standard) (2021–2022)
 🏫 M.P.L Higher Secondary School
+📊 Percentage: 80%
 
-💻 PROJECTS & DEVELOPMENT WORK
-🌐 🔹 Portfolio Website
+💻 PROJECTS
 
-✨ Designed a modern personal portfolio with smooth animations and fully responsive UI.
-🎨 Implemented structured layout and performance-optimized frontend design.
+🔹 Portfolio Website
+🔗 gnana-port.vercel.app
 
-🏫 🔹 GKS Academy Website
+Developed a modern personal portfolio using HTML, CSS, and JavaScript
+Designed responsive UI with smooth animations and structured layout
+Optimized frontend performance for better user experience
 
-📚 Developed a structured educational website focused on clarity, usability, and responsive design.
-🧩 Applied UI/UX principles for better user engagement.
+🔹 Neo South Indian Food Stall Website
+🔗 neo-foods.vercel.app
 
-🎥 🔹 Perfumy Advertisement Concept
+Built a responsive web application using HTML, CSS, and JavaScript
+Implemented backend logic using Google Apps Script
+Used Google Sheets as a database for dynamic data handling
 
-🎨 Built a creative digital marketing concept using emotional storytelling and visual aesthetics.
-🌟 Emphasized brand identity and audience impact through design elements.
+🔹 Engineering College Attendance System
+🔗 mpnmj.vercel.app
 
-🎨 🔹 Gnanus Draw Upcoming Event
-
-🖌 Designed an event showcase platform promoting artistic talent and community engagement.
-📢 Created attractive layout to enhance user interaction.
-
+Developed a web-based attendance system
+Used Firebase SDK for backend integration
+Managed real-time data using Firebase Database
 🏆 ACHIEVEMENTS
 
 🥇 100% Tuition Fee Waiver Scholarship (2024) at Anna University
-
-🥈 Secured Second Position in Half-Yearly Examination (2023–24).
-
-🏅 Won 3rd Prize in District-Level Drawing Competition (2021) and received award from District Collector.
-
-🌟 Successfully completed multiple responsive web projects with modern UI/UX design principles.
+🥈 Secured Second Position in Half-Yearly Examination (2023–24)
+🏅 Won 3rd Prize in District-Level Drawing Competition (2021) and received award from District Collector
+🌟 Successfully completed multiple responsive web projects with modern UI/UX principles
+🥇 Won 1st Prize in Paper Presentation at Shree Venkateshwara Engineering College, Erode
 
 🧠 TECHNICAL SKILLS
-👨‍💻 Programming Languages
-
-🐍 Python
-☕ Java (Basic)
-🗄 SQL
-
-⚙ Core Concepts
-
-📊 Data Structures & Algorithms
-🗃 Database Management Systems
-🐞 Debugging & Testing
-🧹 Clean Code Practices
-
-🌐 Web Development
-
-🧱 HTML
-🎨 CSS
-⚡ JavaScript
-
-🛠 Tools & Technologies
-
-🔹 Git & GitHub
-🔹 VS Code
-🔹 MySQL
-🔹 Power BI
-🔹 MS Excel
-
-🏅 CO-CURRICULAR ACTIVITIES
-
-📄 Participated in Paper Presentation at Jai Sriram Engineering College
-
-💻 Participated in Code Debugging Competition at Jai Sriram Engineering College
-
-📈 Actively attending technical webinars and coding practice sessions.
-
-📚 Continuous learner exploring emerging technologies and software development trends.
-
+Python Programming
+Java (Basic)
+Data Structures and Algorithms
+SQL and Database Management
+Web Development (HTML, CSS, JavaScript)
+Git and GitHub
+Debugging and Testing
+Clean Code Practices
+Power BI
+Project Documentation and Problem Solving
+🛠️ TOOLS & TECHNOLOGIES
+Visual Studio Code
+GitHub
+MySQL
+Power BI
+Microsoft Office
 🤝 SOFT SKILLS
+Communication Skills
+Teamwork and Collaboration
+Problem-Solving Ability
+Adaptability
+Time Management
+Leadership Skills
+Critical Thinking
+Professionalism and Work Ethics
+Presentation Skills
+Logical Thinking
+📜 CERTIFICATIONS
 
-🗣 Effective Communication
-🤝 Team Collaboration
-🧠 Problem-Solving Ability
-🔄 Adaptability
-⏳ Time Management
-🎤 Presentation Skills
-💼 Professionalism & Work Ethics
-🔍 Logical & Critical Thinking
+Completed “Python for Data Science” with 63% (Elite)
+NPTEL SWAYAM Examination, IIT Madras
+Roll No: NPTEL26CS80S455300690
 
-🌍 LANGUAGES
+🎤 PARTICIPATION
+Actively participated in technical workshops, webinars, and coding practice sessions
+Participated in Paper Presentation at Jai Sriram Engineering College, Tiruppur
+Participated in Code Debugging Competition at Jai Sriram Engineering College, Tiruppur
+🌐 LANGUAGES
 
-🇬🇧 English – Intermediate
-🇮🇳 Tamil – Fluent
+English – Intermediate
+Tamil – Fluent
 
-🎨 HOBBIES
+🎯 HOBBIES
+Watching Movies
+Traveling
+Drawing
+Storytelling
 
-🎬 Watching Movies
-✈ Traveling
-🎨 Drawing
-📖 Storytelling
+
 
