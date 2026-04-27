@@ -53,6 +53,7 @@ Used Google Sheets as a database for dynamic data handling
 Developed a web-based attendance system
 Used Firebase SDK for backend integration
 Managed real-time data using Firebase Database
+
 🏆 ACHIEVEMENTS
 
 🥇 100% Tuition Fee Waiver Scholarship (2024) at Anna University
@@ -62,6 +63,7 @@ Managed real-time data using Firebase Database
 🥇 Won 1st Prize in Paper Presentation at Shree Venkateshwara Engineering College, Erode
 
 🧠 TECHNICAL SKILLS
+
 Python Programming
 Java (Basic)
 Data Structures and Algorithms
@@ -72,13 +74,17 @@ Debugging and Testing
 Clean Code Practices
 Power BI
 Project Documentation and Problem Solving
+
 🛠️ TOOLS & TECHNOLOGIES
+
 Visual Studio Code
 GitHub
 MySQL
 Power BI
 Microsoft Office
+
 🤝 SOFT SKILLS
+
 Communication Skills
 Teamwork and Collaboration
 Problem-Solving Ability
@@ -89,22 +95,28 @@ Critical Thinking
 Professionalism and Work Ethics
 Presentation Skills
 Logical Thinking
+
+
 📜 CERTIFICATIONS
+
 
 Completed “Python for Data Science” with 63% (Elite)
 NPTEL SWAYAM Examination, IIT Madras
 Roll No: NPTEL26CS80S455300690
 
 🎤 PARTICIPATION
+
 Actively participated in technical workshops, webinars, and coding practice sessions
 Participated in Paper Presentation at Jai Sriram Engineering College, Tiruppur
 Participated in Code Debugging Competition at Jai Sriram Engineering College, Tiruppur
+
 🌐 LANGUAGES
 
 English – Intermediate
 Tamil – Fluent
 
 🎯 HOBBIES
+
 Watching Movies
 Traveling
 Drawing
