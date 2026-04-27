@@ -57,43 +57,69 @@ Managed real-time data using Firebase Database
 🏆 ACHIEVEMENTS
 
 🥇 100% Tuition Fee Waiver Scholarship (2024) at Anna University
+
 🥈 Secured Second Position in Half-Yearly Examination (2023–24)
+
 🏅 Won 3rd Prize in District-Level Drawing Competition (2021) and received award from District Collector
+
 🌟 Successfully completed multiple responsive web projects with modern UI/UX principles
+
 🥇 Won 1st Prize in Paper Presentation at Shree Venkateshwara Engineering College, Erode
 
 🧠 TECHNICAL SKILLS
 
 Python Programming
+
 Java (Basic)
+
 Data Structures and Algorithms
+
 SQL and Database Management
+
 Web Development (HTML, CSS, JavaScript)
+
 Git and GitHub
+
 Debugging and Testing
+
 Clean Code Practices
+
 Power BI
+
 Project Documentation and Problem Solving
 
 🛠️ TOOLS & TECHNOLOGIES
 
 Visual Studio Code
+
 GitHub
+
 MySQL
+
 Power BI
+
 Microsoft Office
 
 🤝 SOFT SKILLS
 
 Communication Skills
+
 Teamwork and Collaboration
+
 Problem-Solving Ability
+
 Adaptability
+
 Time Management
+
 Leadership Skills
+
 Critical Thinking
+
 Professionalism and Work Ethics
+
 Presentation Skills
+
 Logical Thinking
 
 
@@ -107,7 +133,9 @@ Roll No: NPTEL26CS80S455300690
 🎤 PARTICIPATION
 
 Actively participated in technical workshops, webinars, and coding practice sessions
+
 Participated in Paper Presentation at Jai Sriram Engineering College, Tiruppur
+
 Participated in Code Debugging Competition at Jai Sriram Engineering College, Tiruppur
 
 🌐 LANGUAGES
